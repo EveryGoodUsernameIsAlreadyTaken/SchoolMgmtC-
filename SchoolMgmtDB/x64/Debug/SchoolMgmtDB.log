@@ -1,0 +1,13 @@
+﻿  mssqldb.cpp
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(94,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\SchoolMgmtDB\mssqldb.cpp(119,13): message : consider using '%ws' in the format string
+  SchoolMgmtDB.vcxproj -> D:\Family Folder\Father Folder\SchoolMgmtDB\x64\Debug\SchoolMgmtDB.exe
