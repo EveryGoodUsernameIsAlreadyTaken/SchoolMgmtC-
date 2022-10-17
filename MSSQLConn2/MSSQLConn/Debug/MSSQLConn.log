@@ -1,0 +1,27 @@
+﻿  MSDBConn.cpp
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(85,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(141,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(191,37): warning C4244: 'argument': conversion from 'SQLINTEGER' to 'SQLSMALLINT', possible loss of data
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(194,11): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(223,9): warning C4101: 'cbPm': unreferenced local variable
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(256,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\MSSQLConn2\MSSQLConn\MSDBConn.cpp(396,13): message : consider using '%ws' in the format string
+  MSSQLConn.vcxproj -> D:\Family Folder\Father Folder\MSSQLConn2\Debug\MSSQLConn.exe
